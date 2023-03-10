@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Choko's Junk and Removal</title>
+    </head>
+    <header>
+        <ul>
+          <li>Home</li>
+          <li>Service</li>
+          <li>About us</li>
+          <li>Contact Us</li>  
+        </ul>
+    </header>
+    <div class="Biz Name"></div>
+    <h1><strong>Choko's Junk Removal and Hauling </strong></h1>
+    <p>Choko's Junk Removal and Hauling the best junk removal around </p>
+    <h3 class="contact">Phone Number</h3>
+    <h2>What are you service need.</h2>
+</html>
